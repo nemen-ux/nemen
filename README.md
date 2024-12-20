@@ -1,4 +1,4 @@
-# les basiques de markdown
+# les basiques de Markdown
 
 ## titre 1
 
